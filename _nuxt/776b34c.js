@@ -1145,7 +1145,7 @@
             title: "Wedding invitation",
             header: "Dear",
             subtitle:
-              "You are co-ordially invited to shower blessings at us on our wedding.",
+              "You are co-ordially invited to shower blessings at Riddhish & Bhumi's wedding.",
             divider_color: "orange",
             divider_smiley: "smiley.jpg",
             background_image: "",
